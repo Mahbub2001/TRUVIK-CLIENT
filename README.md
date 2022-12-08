@@ -2,9 +2,9 @@ This is an educational website
 
 Live Website Link is : https://visa-consultant-85969.web.app/
 
-Client Site Link Github Code Link is :https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-Mahbub2001 
+Client Site Link Github Code Link is :https://github.com/Mahbub2001/TRUVIK-CLIENT
 
-Server Site Github Link is : https://github.com/Porgramming-Hero-web-course/b6a11-service-review-server-side-Mahbub2001
+Server Site Github Link is : https://github.com/Mahbub2001/TRUVIK-SERVER
 
 Server Site Link : https://visa-consultant-server.vercel.app
 
